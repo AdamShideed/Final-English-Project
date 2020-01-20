@@ -6,7 +6,7 @@ body {background:url(images/bg.jpg) repeat; font-family:Verdana, Arial, Helvetic
 .clear {clear:both;}
 #wrap {background:url(images/wrapbg.jpg) repeat-y; width:927px; margin:25px auto 25px auto;}
 #wrap #header #sitename {color: #00000f; font-family: Georgia, "Times New Roman", Times, serif; font-size: 58px; font-weight: normal;	display: block;	padding-top: 140px;	text-align: right; padding-right: 50px;}
-#sitename a, #sitename a:visited, #sitename a:active{color:#ffffff; text-decoration:none;}
+#sitename a, #sitename a:visited, #sitename a:active{color:#00000f ; text-decoration:none;}
 #sitename a:hover{color:#00000f ; text-decoration:none;}
 #header {background:url(images/header.jpg) no-repeat; height:340px;}
 
