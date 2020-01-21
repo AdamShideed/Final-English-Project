@@ -21,7 +21,7 @@ body {background:url(https://i.ibb.co/6bP3kXz/wrapbg.jpg) repeat; font-family:Ve
 #content a:active { color:#99CC00;}
 #content a:hover {color:#000000; text-decoration:none;}
 #content h2 .seo {display:block; text-align:right; font-size:14px; color:#999999; background:#efefef; padding:3px;}
-#content h2 .seo2 {display:block; text-align:right; font-size:14px; color:#999999; background:#efefef; padding:3px;}
+#content h2 .seo2 {display:block; text-align:left; font-size:14px; color:#999999; background:#efefef; padding:3px;}
 
 #content blockquote {display:block; padding:5px; margin:10px; text-align:center; font-family:Georgia, "Times New Roman", Times, serif; color:#996600; background:#F8FDBA; border-top:dashed 1px #666666; border-bottom:dashed 1px #666666;}
 #content blockquote p {margin:0px;}
